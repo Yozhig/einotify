@@ -1,0 +1,13 @@
+{ application
+, einotify
+, [ {description, "inotify erlang port"}
+  , {vsn, "1.0"}
+  , {registered, []}
+  , { applications
+    , [ kernel
+      , stdlib
+      ]
+    }
+  , {env, []}
+  ]
+}.
