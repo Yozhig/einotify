@@ -4,6 +4,7 @@
 
 #include "control.h"
 #include "evl.h"
+#include "log.h"
 #include "watch.h"
 
 #define MAX_EVENTS 10
